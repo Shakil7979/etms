@@ -1,0 +1,11 @@
+.section {
+	position: relative;
+	z-index: unset;
+}
+.filter_atts form {
+	display: flex;
+	align-items: center;
+}
+.filter_atts form .form-group {
+	margin: 25px;
+}

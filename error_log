@@ -1,0 +1,589 @@
+[23-Jan-2021 00:18:28 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[23-Jan-2021 00:18:28 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/shakil.coderit.fun/etms/function.php:19
+Stack trace:
+#0 /home/codepbxn/shakil.coderit.fun/etms/header.php(152): em_user(NULL, 'first_name')
+#1 /home/codepbxn/shakil.coderit.fun/etms/index.php(2): require_once('/home/codepbxn/...')
+#2 {main}
+  thrown in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 19
+[23-Jan-2021 00:50:26 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[23-Jan-2021 00:50:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/shakil.coderit.fun/etms/function.php:19
+Stack trace:
+#0 /home/codepbxn/shakil.coderit.fun/etms/header.php(152): em_user(NULL, 'first_name')
+#1 /home/codepbxn/shakil.coderit.fun/etms/index.php(2): require_once('/home/codepbxn/...')
+#2 {main}
+  thrown in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 19
+[22-Jan-2021 13:50:38 America/New_York] PHP Notice:  Undefined variable: z in /home/codepbxn/shakil.coderit.fun/etms/config.php on line 11
+[22-Jan-2021 13:51:09 America/New_York] PHP Notice:  Undefined variable: z in /home/codepbxn/shakil.coderit.fun/etms/config.php on line 11
+[22-Jan-2021 13:51:41 America/New_York] PHP Notice:  Undefined variable: z in /home/codepbxn/shakil.coderit.fun/etms/config.php on line 10
+[22-Jan-2021 13:52:30 America/New_York] PHP Notice:  Undefined variable: z in /home/codepbxn/shakil.coderit.fun/etms/config.php on line 10
+[23-Jan-2021 00:52:30 Asia/Dhaka] PHP Notice:  Undefined variable: pdo in /home/codepbxn/shakil.coderit.fun/etms/login.php on line 17
+[23-Jan-2021 00:52:30 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/codepbxn/shakil.coderit.fun/etms/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/codepbxn/shakil.coderit.fun/etms/login.php on line 17
+[22-Jan-2021 13:54:39 America/New_York] PHP Notice:  Undefined variable: z in /home/codepbxn/shakil.coderit.fun/etms/config.php on line 10
+[22-Jan-2021 13:58:22 America/New_York] PHP Notice:  Undefined variable: z in /home/codepbxn/shakil.coderit.fun/etms/config.php on line 10
+[22-Jan-2021 14:00:11 America/New_York] PHP Notice:  Undefined variable: z in /home/codepbxn/shakil.coderit.fun/etms/config.php on line 10
+[22-Jan-2021 14:03:09 America/New_York] PHP Notice:  Undefined variable: z in /home/codepbxn/shakil.coderit.fun/etms/config.php on line 10
+[22-Jan-2021 14:03:28 America/New_York] PHP Notice:  Undefined variable: z in /home/codepbxn/shakil.coderit.fun/etms/config.php on line 10
+[23-Jan-2021 01:12:39 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'codepbxn_etmsshakil.em_user' doesn't exist in /home/codepbxn/shakil.coderit.fun/etms/login.php:18
+Stack trace:
+#0 /home/codepbxn/shakil.coderit.fun/etms/login.php(18): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/codepbxn/shakil.coderit.fun/etms/login.php on line 18
+[23-Jan-2021 01:13:00 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'codepbxn_etmsshakil.em_user' doesn't exist in /home/codepbxn/shakil.coderit.fun/etms/login.php:18
+Stack trace:
+#0 /home/codepbxn/shakil.coderit.fun/etms/login.php(18): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/codepbxn/shakil.coderit.fun/etms/login.php on line 18
+[23-Jan-2021 13:32:52 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[23-Jan-2021 13:32:52 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[23-Jan-2021 13:32:52 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[23-Jan-2021 13:32:52 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[23-Jan-2021 13:32:52 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[23-Jan-2021 13:32:52 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[23-Jan-2021 13:32:52 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[23-Jan-2021 13:32:52 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[23-Jan-2021 13:32:52 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[23-Jan-2021 13:32:52 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[24-Jan-2021 13:14:05 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[24-Jan-2021 13:14:05 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[24-Jan-2021 13:14:05 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[24-Jan-2021 13:14:05 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[24-Jan-2021 13:14:05 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[24-Jan-2021 13:14:05 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[24-Jan-2021 13:14:05 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[24-Jan-2021 13:14:05 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[24-Jan-2021 13:14:05 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[24-Jan-2021 13:14:05 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[24-Jan-2021 13:37:21 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[24-Jan-2021 13:37:21 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[24-Jan-2021 13:37:21 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[24-Jan-2021 13:37:21 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[24-Jan-2021 13:37:21 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[24-Jan-2021 13:37:21 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[24-Jan-2021 13:37:21 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[24-Jan-2021 13:37:21 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[24-Jan-2021 13:37:21 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[24-Jan-2021 13:37:21 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[24-Jan-2021 02:37:49 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 02:37:51 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 02:37:52 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 02:37:52 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 02:37:52 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 02:37:53 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 02:37:53 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 02:37:53 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 02:37:53 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 02:37:57 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 02:42:41 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 02:42:44 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 02:42:44 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 02:42:44 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 02:42:44 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 02:42:44 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 02:42:44 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 02:42:45 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 02:42:45 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 02:42:45 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 02:42:45 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 02:43:21 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 03:21:59 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 03:22:00 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 03:22:00 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 03:22:00 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 03:22:00 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 03:22:01 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 03:22:01 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 03:32:42 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 03:53:00 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 03:53:00 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 03:53:00 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 03:53:00 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 03:53:00 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 03:53:00 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 03:53:00 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 03:53:58 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 03:53:59 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 03:53:59 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 03:54:00 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 03:54:03 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 03:54:04 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 03:54:04 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 21
+[24-Jan-2021 03:55:13 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 28
+[24-Jan-2021 03:55:15 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 28
+[24-Jan-2021 03:55:15 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 28
+[24-Jan-2021 03:55:15 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 28
+[24-Jan-2021 03:55:15 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 28
+[24-Jan-2021 03:55:15 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 28
+[24-Jan-2021 04:19:16 America/New_York] PHP Parse error:  syntax error, unexpected '"\r\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 26
+[24-Jan-2021 04:19:17 America/New_York] PHP Parse error:  syntax error, unexpected '"\r\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 26
+[24-Jan-2021 04:19:17 America/New_York] PHP Parse error:  syntax error, unexpected '"\r\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 26
+[24-Jan-2021 04:19:20 America/New_York] PHP Parse error:  syntax error, unexpected '"\r\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 26
+[24-Jan-2021 04:20:51 America/New_York] PHP Parse error:  syntax error, unexpected '"\r\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 24
+[24-Jan-2021 04:20:53 America/New_York] PHP Parse error:  syntax error, unexpected '"\r\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 24
+[24-Jan-2021 04:20:53 America/New_York] PHP Parse error:  syntax error, unexpected '"\r\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 24
+[24-Jan-2021 04:21:14 America/New_York] PHP Parse error:  syntax error, unexpected '"\r\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 24
+[24-Jan-2021 04:21:16 America/New_York] PHP Parse error:  syntax error, unexpected '"\r\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 24
+[24-Jan-2021 04:21:16 America/New_York] PHP Parse error:  syntax error, unexpected '"\r\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 24
+[24-Jan-2021 04:21:31 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 24
+[24-Jan-2021 04:21:38 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 24
+[24-Jan-2021 04:21:38 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 24
+[24-Jan-2021 22:54:54 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 36
+[24-Jan-2021 23:34:56 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 36
+[24-Jan-2021 23:34:57 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 36
+[24-Jan-2021 23:34:57 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 36
+[24-Jan-2021 23:36:02 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 36
+[24-Jan-2021 23:36:03 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 36
+[24-Jan-2021 23:36:03 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 36
+[24-Jan-2021 23:36:03 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 36
+[24-Jan-2021 23:36:22 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 36
+[24-Jan-2021 23:36:30 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 37
+[24-Jan-2021 23:37:27 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 36
+[24-Jan-2021 23:37:35 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 37
+[24-Jan-2021 23:37:48 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 37
+[24-Jan-2021 23:38:30 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 36
+[24-Jan-2021 23:38:40 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 37
+[24-Jan-2021 23:39:47 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 36
+[24-Jan-2021 23:39:54 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 37
+[24-Jan-2021 23:43:11 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 36
+[24-Jan-2021 23:43:16 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 37
+[24-Jan-2021 23:43:48 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 36
+[24-Jan-2021 23:45:15 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 36
+[24-Jan-2021 23:45:21 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 37
+[24-Jan-2021 23:45:32 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 36
+[24-Jan-2021 23:45:38 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 37
+[24-Jan-2021 23:46:11 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 36
+[24-Jan-2021 23:46:18 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 37
+[24-Jan-2021 23:52:11 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 36
+[24-Jan-2021 23:52:17 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 37
+[24-Jan-2021 23:52:22 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 36
+[24-Jan-2021 23:52:45 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 36
+[24-Jan-2021 23:53:04 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 37
+[25-Jan-2021 00:07:22 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 37
+[25-Jan-2021 00:41:34 Asia/Dhaka] PHP Notice:  Undefined index: u_id in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 15
+[25-Jan-2021 00:41:34 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 39
+[25-Jan-2021 00:41:58 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 80
+[25-Jan-2021 00:43:25 Asia/Dhaka] PHP Notice:  Undefined index: u_id in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 15
+[25-Jan-2021 00:43:25 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 39
+[25-Jan-2021 00:43:54 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 82
+[24-Jan-2021 13:44:58 America/New_York] PHP Notice:  Undefined variable: user_id in /home/codepbxn/shakil.coderit.fun/etms/forgotPassword.php on line 78
+[25-Jan-2021 00:45:01 Asia/Dhaka] PHP Notice:  Undefined index: u_id in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 15
+[25-Jan-2021 00:45:01 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 39
+[25-Jan-2021 00:45:25 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 82
+[25-Jan-2021 00:46:16 Asia/Dhaka] PHP Notice:  Undefined index: u_id in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 15
+[25-Jan-2021 00:46:16 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 39
+[25-Jan-2021 00:46:23 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 83
+[25-Jan-2021 00:49:54 Asia/Dhaka] PHP Notice:  Undefined index: u_id in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 15
+[25-Jan-2021 00:49:54 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 39
+[24-Jan-2021 13:54:29 America/New_York] PHP Notice:  Undefined variable: user_id in /home/codepbxn/shakil.coderit.fun/etms/forgotPassword.php on line 98
+[25-Jan-2021 00:54:37 Asia/Dhaka] PHP Notice:  Undefined index: u_id in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 15
+[25-Jan-2021 00:54:37 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 39
+[25-Jan-2021 00:58:07 Asia/Dhaka] PHP Notice:  Undefined index: u_id in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 18
+[25-Jan-2021 00:58:07 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 42
+[25-Jan-2021 00:58:38 Asia/Dhaka] PHP Notice:  Undefined index: u_id in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 18
+[25-Jan-2021 00:58:38 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 42
+[25-Jan-2021 01:00:22 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 85
+[25-Jan-2021 01:01:11 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 86
+[25-Jan-2021 01:01:11 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 86
+[25-Jan-2021 01:01:15 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 86
+[25-Jan-2021 01:01:23 Asia/Dhaka] PHP Notice:  Undefined index: u_id in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 18
+[25-Jan-2021 01:01:23 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 42
+[25-Jan-2021 01:01:26 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 86
+[25-Jan-2021 01:01:29 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 86
+[25-Jan-2021 01:01:32 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 86
+[25-Jan-2021 01:01:33 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 86
+[25-Jan-2021 01:01:33 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 86
+[25-Jan-2021 01:01:47 Asia/Dhaka] PHP Notice:  Undefined index: u_id in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 18
+[25-Jan-2021 01:01:48 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 42
+[25-Jan-2021 01:02:15 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 85
+[25-Jan-2021 01:06:54 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 89
+[25-Jan-2021 01:06:55 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 89
+[25-Jan-2021 01:07:04 Asia/Dhaka] PHP Notice:  Undefined index: u_id in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 18
+[25-Jan-2021 01:07:04 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 42
+[25-Jan-2021 01:07:32 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 89
+[25-Jan-2021 01:10:46 Asia/Dhaka] PHP Notice:  Undefined index: u_id in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 18
+[25-Jan-2021 01:10:46 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 42
+[25-Jan-2021 01:10:51 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 90
+[25-Jan-2021 01:11:10 Asia/Dhaka] PHP Notice:  Undefined index: u_id in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 18
+[25-Jan-2021 01:11:10 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 42
+[25-Jan-2021 01:11:30 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 90
+[25-Jan-2021 01:12:09 Asia/Dhaka] PHP Notice:  Undefined index: u_id in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 18
+[25-Jan-2021 01:12:09 Asia/Dhaka] PHP Notice:  Undefined variable: error in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 42
+[25-Jan-2021 01:12:13 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 90
+[25-Jan-2021 01:12:36 Asia/Dhaka] PHP Notice:  Undefined variable: success in /home/codepbxn/shakil.coderit.fun/etms/ajaxRequest.php on line 90
+[18-Feb-2021 21:38:42 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[18-Feb-2021 21:38:42 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[18-Feb-2021 21:38:42 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[18-Feb-2021 21:38:42 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[18-Feb-2021 21:38:42 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[18-Feb-2021 21:38:42 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[18-Feb-2021 21:38:42 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[18-Feb-2021 21:38:42 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[18-Feb-2021 21:38:42 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[18-Feb-2021 21:38:42 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[23-Mar-2021 23:20:42 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[23-Mar-2021 23:20:42 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[23-Mar-2021 23:20:42 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[23-Mar-2021 23:20:42 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[23-Mar-2021 23:20:42 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[23-Mar-2021 23:20:42 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[23-Mar-2021 23:20:42 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[23-Mar-2021 23:20:42 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[23-Mar-2021 23:20:42 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[23-Mar-2021 23:20:42 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[17-Apr-2021 23:12:16 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[17-Apr-2021 23:12:16 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[17-Apr-2021 23:12:16 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[17-Apr-2021 23:12:16 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[17-Apr-2021 23:12:16 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[17-Apr-2021 23:12:16 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[17-Apr-2021 23:12:16 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[17-Apr-2021 23:12:16 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[17-Apr-2021 23:12:16 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[17-Apr-2021 23:12:16 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[30-Apr-2021 20:36:34 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[30-Apr-2021 20:36:34 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[30-Apr-2021 20:36:34 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[30-Apr-2021 20:36:34 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[30-Apr-2021 20:36:34 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[30-Apr-2021 20:36:34 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[30-Apr-2021 20:36:34 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[30-Apr-2021 20:36:34 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[30-Apr-2021 20:36:34 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[30-Apr-2021 20:36:34 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[30-Apr-2021 21:38:26 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[30-Apr-2021 21:38:26 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[30-Apr-2021 21:38:26 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[30-Apr-2021 21:38:26 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[30-Apr-2021 21:38:26 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[30-Apr-2021 21:38:26 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[30-Apr-2021 21:38:26 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[30-Apr-2021 21:38:26 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[30-Apr-2021 21:38:26 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[30-Apr-2021 21:38:26 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[30-Apr-2021 21:55:46 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[30-Apr-2021 21:55:46 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[30-Apr-2021 21:55:46 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[30-Apr-2021 21:55:46 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[30-Apr-2021 21:55:46 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[30-Apr-2021 21:55:46 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[30-Apr-2021 21:55:46 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[30-Apr-2021 21:55:46 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[30-Apr-2021 21:55:46 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[30-Apr-2021 21:55:46 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[30-Apr-2021 22:49:45 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[30-Apr-2021 22:49:45 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[30-Apr-2021 22:49:45 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[30-Apr-2021 22:49:45 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[30-Apr-2021 22:49:45 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[30-Apr-2021 22:49:45 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[30-Apr-2021 22:49:45 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[30-Apr-2021 22:49:45 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[30-Apr-2021 22:49:45 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[30-Apr-2021 22:49:45 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/taskView.php on line 3
+[30-Apr-2021 22:49:45 Asia/Dhaka] PHP Notice:  Undefined variable: name in /home/codepbxn/shakil.coderit.fun/etms/taskView.php on line 67
+[30-Apr-2021 22:49:45 Asia/Dhaka] PHP Notice:  Undefined variable: details in /home/codepbxn/shakil.coderit.fun/etms/taskView.php on line 71
+[30-Apr-2021 22:49:45 Asia/Dhaka] PHP Notice:  Undefined variable: date_time in /home/codepbxn/shakil.coderit.fun/etms/taskView.php on line 75
+[30-Apr-2021 22:49:45 Asia/Dhaka] PHP Notice:  Undefined variable: submit_date_time in /home/codepbxn/shakil.coderit.fun/etms/taskView.php on line 75
+[30-Apr-2021 22:49:45 Asia/Dhaka] PHP Notice:  Undefined variable: row in /home/codepbxn/shakil.coderit.fun/etms/taskView.php on line 80
+[08-May-2021 19:50:15 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[08-May-2021 19:50:15 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[08-May-2021 19:50:15 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[08-May-2021 19:50:15 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[08-May-2021 19:50:15 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[08-May-2021 19:50:15 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[08-May-2021 19:50:15 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[08-May-2021 19:50:15 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[08-May-2021 19:50:15 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[08-May-2021 19:50:15 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[10-May-2021 03:28:28 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[10-May-2021 03:28:28 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-May-2021 03:28:28 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-May-2021 03:28:28 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[10-May-2021 03:28:28 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-May-2021 03:28:28 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[10-May-2021 03:28:28 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-May-2021 03:28:28 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[10-May-2021 03:28:28 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-May-2021 03:28:28 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[10-May-2021 03:28:29 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[10-May-2021 03:28:29 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-May-2021 03:28:29 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-May-2021 03:28:29 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[10-May-2021 03:28:29 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-May-2021 03:28:29 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[10-May-2021 03:28:29 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-May-2021 03:28:29 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[10-May-2021 03:28:29 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-May-2021 03:28:29 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[10-May-2021 03:28:31 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[10-May-2021 03:28:31 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-May-2021 03:28:31 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-May-2021 03:28:31 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[10-May-2021 03:28:31 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-May-2021 03:28:31 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[10-May-2021 03:28:31 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-May-2021 03:28:31 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[10-May-2021 03:28:31 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-May-2021 03:28:31 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[10-May-2021 03:28:31 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[10-May-2021 03:28:31 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-May-2021 03:28:31 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-May-2021 03:28:31 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[10-May-2021 03:28:31 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-May-2021 03:28:31 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[10-May-2021 03:28:31 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-May-2021 03:28:31 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[10-May-2021 03:28:31 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-May-2021 03:28:31 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[10-May-2021 03:28:45 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[10-May-2021 03:28:45 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-May-2021 03:28:45 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-May-2021 03:28:45 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[10-May-2021 03:28:45 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-May-2021 03:28:45 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[10-May-2021 03:28:45 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-May-2021 03:28:45 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[10-May-2021 03:28:45 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-May-2021 03:28:45 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[10-Jun-2021 11:27:07 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[10-Jun-2021 11:27:07 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-Jun-2021 11:27:07 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-Jun-2021 11:27:07 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[10-Jun-2021 11:27:07 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-Jun-2021 11:27:07 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[10-Jun-2021 11:27:07 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-Jun-2021 11:27:07 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[10-Jun-2021 11:27:07 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-Jun-2021 11:27:07 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[12-Jun-2021 17:14:27 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[12-Jun-2021 17:14:27 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[12-Jun-2021 17:14:27 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[12-Jun-2021 17:14:27 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[12-Jun-2021 17:14:27 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[12-Jun-2021 17:14:27 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[12-Jun-2021 17:14:27 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[12-Jun-2021 17:14:27 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[12-Jun-2021 17:14:27 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[12-Jun-2021 17:14:27 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[19-Jun-2021 16:45:38 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[19-Jun-2021 16:45:38 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[19-Jun-2021 16:45:38 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[19-Jun-2021 16:45:38 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[19-Jun-2021 16:45:38 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[19-Jun-2021 16:45:38 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[19-Jun-2021 16:45:38 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[19-Jun-2021 16:45:38 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[19-Jun-2021 16:45:38 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[19-Jun-2021 16:45:38 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[26-Jun-2021 15:39:29 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[26-Jun-2021 15:39:29 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[26-Jun-2021 15:39:29 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[26-Jun-2021 15:39:29 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[26-Jun-2021 15:39:29 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[26-Jun-2021 15:39:29 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[26-Jun-2021 15:39:29 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[26-Jun-2021 15:39:29 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[26-Jun-2021 15:39:29 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[26-Jun-2021 15:39:29 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[27-Jun-2021 14:28:33 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[27-Jun-2021 14:28:33 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[27-Jun-2021 14:28:33 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[27-Jun-2021 14:28:33 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[27-Jun-2021 14:28:33 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[27-Jun-2021 14:28:33 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[27-Jun-2021 14:28:33 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[27-Jun-2021 14:28:33 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[27-Jun-2021 14:28:33 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[27-Jun-2021 14:28:33 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[07-Jul-2021 17:00:32 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[07-Jul-2021 17:00:32 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[07-Jul-2021 17:00:32 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[07-Jul-2021 17:00:32 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[07-Jul-2021 17:00:32 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[07-Jul-2021 17:00:32 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[07-Jul-2021 17:00:32 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[07-Jul-2021 17:00:32 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[07-Jul-2021 17:00:32 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[07-Jul-2021 17:00:32 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[10-Jul-2021 15:26:16 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[10-Jul-2021 15:26:16 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-Jul-2021 15:26:16 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-Jul-2021 15:26:16 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[10-Jul-2021 15:26:16 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-Jul-2021 15:26:16 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[10-Jul-2021 15:26:16 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-Jul-2021 15:26:16 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[10-Jul-2021 15:26:16 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-Jul-2021 15:26:16 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[07-Aug-2021 11:56:22 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[07-Aug-2021 11:56:22 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[07-Aug-2021 11:56:22 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[07-Aug-2021 11:56:22 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[07-Aug-2021 11:56:22 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[07-Aug-2021 11:56:22 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[07-Aug-2021 11:56:22 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[07-Aug-2021 11:56:22 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[07-Aug-2021 11:56:22 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[07-Aug-2021 11:56:22 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[19-Aug-2021 14:57:04 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[19-Aug-2021 14:57:04 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[19-Aug-2021 14:57:04 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[19-Aug-2021 14:57:04 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[19-Aug-2021 14:57:04 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[19-Aug-2021 14:57:04 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[19-Aug-2021 14:57:04 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[19-Aug-2021 14:57:04 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[19-Aug-2021 14:57:04 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[19-Aug-2021 14:57:04 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[25-Aug-2021 12:10:55 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[25-Aug-2021 12:10:55 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[25-Aug-2021 12:10:55 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[25-Aug-2021 12:10:55 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[25-Aug-2021 12:10:55 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[25-Aug-2021 12:10:55 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[25-Aug-2021 12:10:55 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[25-Aug-2021 12:10:55 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[25-Aug-2021 12:10:55 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[25-Aug-2021 12:10:55 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[29-Aug-2021 10:33:36 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[29-Aug-2021 10:33:36 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[29-Aug-2021 10:33:36 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[29-Aug-2021 10:33:36 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[29-Aug-2021 10:33:36 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[29-Aug-2021 10:33:36 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[29-Aug-2021 10:33:36 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[29-Aug-2021 10:33:36 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[29-Aug-2021 10:33:36 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[29-Aug-2021 10:33:36 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[31-Aug-2021 17:15:33 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[31-Aug-2021 17:15:33 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[31-Aug-2021 17:15:33 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[31-Aug-2021 17:15:33 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[31-Aug-2021 17:15:33 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[31-Aug-2021 17:15:33 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[31-Aug-2021 17:15:33 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[31-Aug-2021 17:15:33 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[31-Aug-2021 17:15:33 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[31-Aug-2021 17:15:33 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[31-Aug-2021 18:07:56 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[31-Aug-2021 18:07:56 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[31-Aug-2021 18:07:56 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[31-Aug-2021 18:07:56 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[31-Aug-2021 18:07:56 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[31-Aug-2021 18:07:56 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[31-Aug-2021 18:07:56 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[31-Aug-2021 18:07:56 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[31-Aug-2021 18:07:56 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[31-Aug-2021 18:07:56 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[31-Aug-2021 19:24:18 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[31-Aug-2021 19:24:18 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[31-Aug-2021 19:24:18 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[31-Aug-2021 19:24:18 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[31-Aug-2021 19:24:18 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[31-Aug-2021 19:24:18 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[31-Aug-2021 19:24:18 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[31-Aug-2021 19:24:18 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[31-Aug-2021 19:24:18 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[31-Aug-2021 19:24:18 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[31-Aug-2021 19:25:04 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[31-Aug-2021 19:25:04 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[31-Aug-2021 19:25:04 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[31-Aug-2021 19:25:04 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[31-Aug-2021 19:25:04 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[31-Aug-2021 19:25:04 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[31-Aug-2021 19:25:04 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[31-Aug-2021 19:25:04 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[31-Aug-2021 19:25:04 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[31-Aug-2021 19:25:04 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[10-Sep-2021 22:20:37 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[10-Sep-2021 22:20:37 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-Sep-2021 22:20:37 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-Sep-2021 22:20:37 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[10-Sep-2021 22:20:37 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-Sep-2021 22:20:37 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[10-Sep-2021 22:20:37 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-Sep-2021 22:20:37 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[10-Sep-2021 22:20:37 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[10-Sep-2021 22:20:37 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[16-Oct-2021 09:13:48 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[16-Oct-2021 09:13:48 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[16-Oct-2021 09:13:48 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[16-Oct-2021 09:13:48 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[16-Oct-2021 09:13:48 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[16-Oct-2021 09:13:48 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[16-Oct-2021 09:13:48 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[16-Oct-2021 09:13:48 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[16-Oct-2021 09:13:48 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[16-Oct-2021 09:13:48 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[16-Oct-2021 09:15:05 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[16-Oct-2021 09:15:05 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[16-Oct-2021 09:15:05 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[16-Oct-2021 09:15:05 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[16-Oct-2021 09:15:05 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[16-Oct-2021 09:15:05 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[16-Oct-2021 09:15:05 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[16-Oct-2021 09:15:05 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[16-Oct-2021 09:15:05 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[16-Oct-2021 09:15:05 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[16-Oct-2021 20:14:00 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[16-Oct-2021 20:14:00 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[16-Oct-2021 20:14:00 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[16-Oct-2021 20:14:00 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[16-Oct-2021 20:14:00 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[16-Oct-2021 20:14:00 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[16-Oct-2021 20:14:00 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[16-Oct-2021 20:14:00 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[16-Oct-2021 20:14:00 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[16-Oct-2021 20:14:00 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[08-Nov-2021 15:38:27 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[08-Nov-2021 15:38:27 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[08-Nov-2021 15:38:27 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[08-Nov-2021 15:38:27 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[08-Nov-2021 15:38:27 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[08-Nov-2021 15:38:27 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[08-Nov-2021 15:38:27 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[08-Nov-2021 15:38:27 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[08-Nov-2021 15:38:27 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[08-Nov-2021 15:38:27 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[08-Nov-2021 15:41:25 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[08-Nov-2021 15:41:25 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[08-Nov-2021 15:41:25 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[08-Nov-2021 15:41:25 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[08-Nov-2021 15:41:25 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[08-Nov-2021 15:41:25 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[08-Nov-2021 15:41:25 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[08-Nov-2021 15:41:25 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[08-Nov-2021 15:41:25 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[08-Nov-2021 15:41:25 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[15-Nov-2021 16:16:35 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[15-Nov-2021 16:16:35 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[15-Nov-2021 16:16:35 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[15-Nov-2021 16:16:35 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[15-Nov-2021 16:16:35 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[15-Nov-2021 16:16:35 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[15-Nov-2021 16:16:35 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[15-Nov-2021 16:16:35 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[15-Nov-2021 16:16:35 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[15-Nov-2021 16:16:35 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[16-Nov-2021 15:55:49 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[16-Nov-2021 15:55:49 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[16-Nov-2021 15:55:49 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[16-Nov-2021 15:55:49 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[16-Nov-2021 15:55:49 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[16-Nov-2021 15:55:49 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[16-Nov-2021 15:55:49 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[16-Nov-2021 15:55:49 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[16-Nov-2021 15:55:49 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[16-Nov-2021 15:55:49 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
+[16-Nov-2021 18:31:56 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 14
+[16-Nov-2021 18:31:56 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[16-Nov-2021 18:31:56 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[16-Nov-2021 18:31:56 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[16-Nov-2021 18:31:56 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[16-Nov-2021 18:31:56 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 188
+[16-Nov-2021 18:31:56 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[16-Nov-2021 18:31:56 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/header.php on line 198
+[16-Nov-2021 18:31:56 Asia/Dhaka] PHP Notice:  Undefined offset: 0 in /home/codepbxn/shakil.coderit.fun/etms/function.php on line 22
+[16-Nov-2021 18:31:56 Asia/Dhaka] PHP Notice:  Undefined index: em_user in /home/codepbxn/shakil.coderit.fun/etms/index.php on line 4
